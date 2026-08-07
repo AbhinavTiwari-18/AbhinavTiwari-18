@@ -3,14 +3,8 @@
 
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/AbhinavTiwari-18/">
     <img src="https://github-profile-trophy.vercel.app/?username=abhinavtiwari-18" alt="abhinavtiwari-18" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/abhinav_1_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/abhinav_1_?logo=twitter&style=for-the-badge" alt="Twitter: @abhinav_1_" />
   </a>
 </p>
 
@@ -19,20 +13,17 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **Salesforce Flows, Validation Rules, Apex Triggers, and Data Modeling**
-- 💻 Building a **College Management System** on the Salesforce Platform (Admin + Developer)
-- 🔁 Automating processes using **Record-Triggered Flows**
+- 💻 Building a **Car Rental Management System** on the Salesforce Platform (Admin + Developer)
+- 🔁 Automating business processes using **Record-Triggered Flows**
 - 📚 Preparing for **Salesforce Developer Certification** and **GATE CS 2025**
-- 💬 Ask me about **Salesforce Admin, Apex, Flows, Validation Rules, or full-stack development**
+- 💬 Ask me about **Salesforce Admin, Apex, Flows, Validation Rules, and Salesforce Development**
 - 📫 Reach me at **abhinavtiwari1806@gmail.com**
 - ⚡ Fun fact: *I love turning business problems into smart Salesforce solutions!*
 
----
-
+  
+----
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/abhinav_1_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhinav_1_" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/abhinav-tiwari18" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-tiwari18" height="30" width="40" />
   </a>
@@ -72,14 +63,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
 </p>
-
----
-
-### 📂 Featured Salesforce Project
-> **College Management System on Salesforce**  
-> Objects: Student, Course, Faculty, Department, Enrollment  
-> Features: Auto Enrollment Creation, Validation Rules for Book Issue/Return, Flow-based Automation, Fee Calculation Logic  
-> *(Repo link coming soon — stay tuned!)*
 
 ---
 
