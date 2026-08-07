@@ -78,3 +78,11 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtiwari-18" alt="GitHub Streak" />
 </p>
+
+
+### 📂 Featured Salesforce Project
+
+> **Car Rental Management System on Salesforce**  
+> **Objects:** Customer, Vehicle, Booking, Rental, Payment, Branch, Maintenance  
+> **Features:** Vehicle Availability Management, Rental Booking Automation, Record-Triggered Flows, Validation Rules, Automated Payment Tracking, and Rental Status Management  
+> *(Repo link coming soon — stay tuned!)*
